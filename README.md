@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aujjwal300&show_icons=true&theme=radical)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha951)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aujjwal300)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
