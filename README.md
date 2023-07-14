@@ -44,4 +44,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
+![Snake animation](https://github.com/aujjwal300/aujjwal300/blob/output/github-contribution-grid-snake.svg)
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
