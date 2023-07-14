@@ -37,6 +37,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="120" height="45" style="filter: invert(1);"/>
 </p>
 
+<a href="https://github.com/aujjwal300">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aujjwal300&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aujjwal300&theme=noctis_minimus&layout=compact" />
+</a>
 ![Snake animation](https://github.com/aujjwal300/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
