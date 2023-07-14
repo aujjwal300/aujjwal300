@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" style="filter: invert(1);"/>
 </p>
 
+<br></br>
+
 <!--
 <a href="https://github.com/aujjwal300">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aujjwal300&theme=noctis_minimus&show_icons=true" />
