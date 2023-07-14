@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
-
+</br>
 <h2> 🚀 &nbsp;Some Languages and Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="45" height="45" style="filter: hue-rotate(180deg)"/>
