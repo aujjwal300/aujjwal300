@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img height="20%" src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
+  <img height="20px" src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 </p>
 
 
