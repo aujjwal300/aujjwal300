@@ -9,7 +9,7 @@
 </picture>
 
 
-<p align="center">
+<p align="right">
   <img src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 </p>
 
