@@ -9,8 +9,8 @@
 </picture>
 
 
-<p align="right">
-  <img src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
+<p align="center">
+  <img height="20%" src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 </p>
 
 
