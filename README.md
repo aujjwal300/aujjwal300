@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
-</br>
 
 ---
 
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" style="filter: invert(1);"/>
 </p>
 
-</br>
+---
 
 <!--
 <a href="https://github.com/aujjwal300">
@@ -76,7 +75,7 @@ Here are some ideas to get you started:
 </picture>
 
 
-<br></br>
+---
 
 [![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
