@@ -1,4 +1,11 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hello+World+!+%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hello+World+!+%F0%9F%91%8B">
+  <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+</picture>
+
+### I'm Computer Engineering Student interested in **Web Developemt 💻** and **SDE Engineering 🧰** !<img src="https://little.kylerconway.com/images/golang-what.gif" width="150" align="center">
+
 
 <!--
 **aujjwal300/aujjwal300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
