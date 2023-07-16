@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 <picture>
@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 <br></br>
 
 [![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
