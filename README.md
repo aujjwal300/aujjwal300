@@ -8,13 +8,14 @@
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
-
+<!--
 <p align="center">
   <img height="200px" src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 </p>
+-->
 
 
-### I'm Computer Engineering Student interested in **Web Developemt 💻** and **SD Engineering 🧰** 
+### I'm a Computer Engineering Student interested in **Web Developemt 💻** and **SD Engineering 🧰** 
 
 
 <!--
