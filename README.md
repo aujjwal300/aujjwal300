@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-![Snake animation](https://github.com/aujjwal300/aujjwal300/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aujjwal300/aujjwal300/blob/preview/github-contribution-grid-snake.svg)
 
 </br>
 
