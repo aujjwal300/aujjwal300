@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 </picture>
 
 
+[![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 <p align="left">
