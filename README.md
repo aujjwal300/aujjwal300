@@ -15,7 +15,7 @@
 -->
 
 
-### I'm a Computer Engineering Student interested in **Web Developemt 💻** and **SD Engineering 🧰** 
+### I'm a Computer Engineering Student interested in **Web Developemt 💻** and **SDE 🧰** 
 
 
 <!--
