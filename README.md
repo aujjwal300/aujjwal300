@@ -23,7 +23,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Project with State Government.
+- 🔭 I’m currently working on my Personal Project.
 - 🌱 I’m currently learning CS Fundamentals and DSA.
 - 👯 I’m looking to collaborate on Nothing.
 - 🤔 I’m looking for help with Placement.
