@@ -67,10 +67,11 @@
 
 ---
 
-<h2> 📈 &nbsp;Recent Activity</h2>
+<h2> 📈 &nbsp;Contributions Calendar</h2>
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aujjwal300&theme=github" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aujjwal300&theme=dark" alt="Contributions Calendar"/>
 </p>
+
 
 ---
 
