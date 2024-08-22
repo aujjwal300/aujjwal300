@@ -8,48 +8,30 @@
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
-<!--
-<p align="center">
-  <img height="200px" src= "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
-</p>
--->
-
-
-### I'm a Computer Engineering Student interested in **Web Developemt 💻** and **SDE 🧰** 
-
-
-<!--
-**aujjwal300/aujjwal300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on my Personal Project.
-- 🌱 I’m currently learning CS Fundamentals and DSA.
-- 👯 I’m looking to collaborate on Nothing.
-- 🤔 I’m looking for help with Placement.
-- 💬 Ask me about My Project, Doubts regarding Academics or any Project of yours.
-- 📫 How to reach me: LinkedIn
-<!-- - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... -->
-
+### I'm a Software Developer interested in **Web Development 💻** and **Software Engineering 🧰**
 
 ---
 
-<h2> 🚀 &nbsp;Some Languages and Tools I Have Used and Learned</h2>
+- 🔭 I’m currently working as an SDE-1 at **Signzy**.
+- 🌱 I’m currently honing my skills in **CS Fundamentals** and **DSA**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **My Projects**, **Career Guidance**, or **Coding Advice**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aujjwal300/)
+  
+---
+
+<h2> 🚀 &nbsp;Technologies and Tools I've Worked With</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="45" height="45" style="filter: hue-rotate(180deg)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -58,13 +40,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<!--
-<a href="https://github.com/aujjwal300">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aujjwal300&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aujjwal300&theme=noctis_minimus&layout=compact" />
-</a>
--->
 
 <picture>
   <source
@@ -81,12 +56,11 @@ Here are some ideas to get you started:
   />
 </picture>
 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
