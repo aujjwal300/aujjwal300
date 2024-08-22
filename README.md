@@ -72,6 +72,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aujjwal300&theme=dark" alt="Contributions Calendar"/>
 </p>
 
+---
+
+<h2> 🏆 &nbsp;Achievements</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aujjwal300&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Achievements"/>
+</p>
 
 ---
 
@@ -92,7 +98,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<h2> 👀 &nbsp;Visitor Count</h2>
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=aujjwal300&label=Profile%20Views&color=12B882&icon=5" alt="Visitor Count"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
