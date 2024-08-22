@@ -59,6 +59,21 @@
 
 ---
 
+<h2> 📊 &nbsp;GitHub Stats</h2>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aujjwal300&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aujjwal300&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2> 📈 &nbsp;Recent Activity</h2>
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=aujjwal300&theme=github" alt="Activity Graph"/>
+</p>
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
