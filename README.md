@@ -23,7 +23,7 @@
 <h2> 🚀 &nbsp;Technologies and Tools I've Worked With</h2>
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="45" height="45" style="filter: hue-rotate(180deg)" title="C++"/>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="40" height="45" style="filter: hue-rotate(180deg)" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" title="JavaScript"/>
 
   <!-- Frontend Technologies -->
