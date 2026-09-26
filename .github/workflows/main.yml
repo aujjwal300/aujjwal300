@@ -1,16 +1,14 @@
-name: generate animation
+name: generate profile assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  
+    - cron: "0 */12 * * *"
+
   workflow_dispatch:
-  
+
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
@@ -18,17 +16,57 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: aujjwal300
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      # Cards are generated here instead of using the public github-readme-stats
+      # instance, which is paused. Fail on API errors so the last good cards on
+      # the preview branch are kept instead of being replaced by error cards.
+      - name: generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=default
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=github_dark
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: push generated assets to the preview branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: preview
           build_dir: dist
