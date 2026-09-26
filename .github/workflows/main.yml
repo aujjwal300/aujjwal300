@@ -18,17 +18,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # Cards are generated here instead of using the public github-readme-stats
       # instance, which is paused. Fail on API errors so the last good cards on
       # the preview branch are kept instead of being replaced by error cards.
+      # These must run before Platane/snk: its Docker container creates dist/ as
+      # root, and later non-root steps then can't write into it.
       - name: generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -64,6 +58,14 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push generated assets to the preview branch
         uses: crazy-max/ghaction-github-pages@v5
